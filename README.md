@@ -27,7 +27,7 @@ the best score for Kaggle using the method SVM is 0.82391
 step1:
 Download the dataset from the kaggle website and put the folder in the correct location as shown in the directory
     Text Classification Challenge:
-    https://www.kaggle.com/t/6c98b08e131d49abaa8915175de22ced
+    https://www.kaggle.com/t/6c98b08e131d49abaa8915175de22ced/data
 
 step2:
 Configure the right environment, for example: Colab or JupyterNotebook
